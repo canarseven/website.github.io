@@ -53,8 +53,9 @@
 
 .main-text{
     margin-top: 2em;
-    font-weight: 500;
-    font-size: 39px;
+    font-weight: 100;
+    font-size: 30px;
+    max-width: 1000px
 }
 
 .main-products-section{

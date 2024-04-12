@@ -8472,7 +8472,7 @@ html[data-direction=down] .header:not(.header_show-menu) .header__inner {
 
 .services-page__head .h4 {
     margin-top: 2rem;
-    font-weight: 400;
+    font-weight: 100;
     font-size: 0
 }
 
@@ -8732,7 +8732,8 @@ html[data-direction=down] .header:not(.header_show-menu) .header__inner {
 }
 
 .single-service-page__head .h4 {
-    font-weight: 500;
+    font-weight: 100;
+    font-size:30px;
     margin-top: 4rem;
     margin-bottom: 4rem;
     max-width: calc(50vw - 9.4vw - 2rem)
